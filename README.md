@@ -47,4 +47,4 @@ The dashboard provides insights into employee performance scores, salaries, work
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/employee-performance-dashboard.git
+   [git clone https://github.com/your-username/employee-performance-dashboard.git](https://app.fabric.microsoft.com/groups/27cbace7-64c5-45c4-8ab5-9366e7328b5a/reports/db6ba255-3a65-4f6b-8d19-7c9f78892fa1/2cb1f549d46fc4f544dc?experience=fabric-developer)

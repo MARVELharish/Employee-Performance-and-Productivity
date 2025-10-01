@@ -1,30 +1,50 @@
-# **Employee Performance and Productivity Analysis**
-**
-## **Project Overview**
-This project involves an in-depth analysis of the “Employee Performance and Productivity” dataset, completed as part of the October challenge. The goal was to derive key insights into employee performance metrics and productivity trends using various data analysis techniques.
+# Employee Performance and Productivity Dashboard
 
-## **Tools used : Power BI**
+This project visualizes **Employee Performance and Productivity Metrics** using **Power BI**.  
+The dashboard provides insights into employee performance scores, salaries, work hours, projects handled, and other HR analytics.
 
-## **Key Features :**
-Exploratory Data Analysis (EDA): Conducted to understand data distribution, identify patterns, and detect outliers.
-Data Manipulation with DAX: Utilized DAX functions to calculate complex measures and KPIs, enhancing the depth of analysis.
-Interactive Dashboards: Created using Power BI to visualize data insights and trends.
+---
 
-**## Project Details**
-EDA: Performed to explore the dataset, understand its structure, and identify key patterns.
-Data Visualization: Developed various charts and graphs to represent data insights clearly.
-DAX Functions: Applied to manipulate data and derive meaningful insights.
-Dashboard Creation: Built interactive dashboards in Power BI to present findings effectively.
+## 📊 Key Insights from Dashboard
 
-## **Image of the Dashboard(canvas):**
-![Screenshot 2024-10-04 175459](https://github.com/user-attachments/assets/bdafd0d3-fadd-4543-8312-e5a370525520)
+- **Average Performance Score**: `3.0 / 5`
+- **Average Years at Company**: `4.5 years`
+- **Average Monthly Salary**: `6.4K`
+- **Average Work Hours per Week**: `44.96 hours`
 
+### 👥 Employee Demographics
+- **Male Employees**: `48K (48%)`
+- **Female Employees**: `48K (48%)`
+- **Others**: `3.9K (4%)`
 
-## **Results**
-The analysis provided valuable insights into employee performance and productivity, helping to identify key factors influencing these metrics.
+### 💼 Salary Insights by Job Title
+- **Engineer**: `7.80K (17.39%)`
+- **Manager**: `7.80K (17.4%)`
+- **Consultant**: `7.15K (15.95%)`
+- **Analyst**: `6.49K (14.48%)`
+- **Technician**: `5.86K (13.06%)`
+- **Specialist**: `5.20K (11.59%)`
+- **Developer**: `4.55K (10.14%)`
 
-## **Conclusion**
-This project demonstrates the application of data analysis and visualization techniques to derive actionable insights from a dataset. It highlights the use of Python for EDA, DAX for data manipulation, and Power BI for creating interactive dashboards.
+### 🎓 Performance by Education
+- **Master’s Degree**: Highest average score (~3.02)
+- **Bachelor’s Degree**: Lowest average score (~2.98)
 
-## **Contact**      
-For any questions or collaboration opportunities, feel free to reach out via LinkedIn or Gmail: marvelharish17@gmail.com
+### 📂 Projects & Performance
+- **Most projects handled**: Specialists (100%)
+- **Least projects handled**: Developers (~97.3%)
+- Positive correlation between **Projects Handled** and **Performance Score**.
+
+---
+
+## 🛠️ Tools Used
+- **Power BI** – for dashboard creation and visualization.
+- **Excel / CSV** – dataset preprocessing.
+- **DAX** – measures and calculated columns.
+
+---
+
+## 🚀 How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/employee-performance-dashboard.git

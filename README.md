@@ -3,6 +3,10 @@
 This project visualizes **Employee Performance and Productivity Metrics** using **Power BI**.  
 The dashboard provides insights into employee performance scores, salaries, work hours, projects handled, and other HR analytics.
 
+
+## 📊 Dashboard Preview
+<img width="1937" height="1103" alt="Screenshot 2024-10-04 175459" src="https://github.com/user-attachments/assets/ad73571a-4bfa-4151-9c2a-a95d357dfe76" />
+
 ---
 
 ## 📊 Key Insights from Dashboard

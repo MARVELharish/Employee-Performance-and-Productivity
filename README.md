@@ -3,6 +3,13 @@
 This project visualizes **Employee Performance and Productivity Metrics** using **Power BI**.  
 The dashboard provides insights into employee performance scores, salaries, work hours, projects handled, and other HR analytics.
 
+## 📊 View the Live Dashboard
+
+You can view the live dashboard here (requires access):
+
+[Open the Power BI / Fabric Report](https://app.fabric.microsoft.com/groups/27cbace7-64c5-45c4-8ab5-9366e7328b5a/reports/db6ba255-3a65-4f6b-8d19-7c9f78892fa1/2cb1f549d46fc4f544dc?experience=fabric-developer)
+
+---
 
 ## 📊 Dashboard Preview
 <img width="1937" height="1103" alt="Screenshot 2024-10-04 175459" src="https://github.com/user-attachments/assets/ad73571a-4bfa-4151-9c2a-a95d357dfe76" />
@@ -47,10 +54,3 @@ The dashboard provides insights into employee performance scores, salaries, work
 - **DAX** – measures and calculated columns.
 
 ---
-
-## 📊 View the Live Dashboard
-
-You can view the live dashboard here (requires access):
-
-[Open the Power BI / Fabric Report](https://app.fabric.microsoft.com/groups/27cbace7-64c5-45c4-8ab5-9366e7328b5a/reports/db6ba255-3a65-4f6b-8d19-7c9f78892fa1/2cb1f549d46fc4f544dc?experience=fabric-developer)
-
